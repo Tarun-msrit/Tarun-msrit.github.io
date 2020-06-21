@@ -6,11 +6,11 @@ favicon: images/favicon.ico
 name: Tarun Ragothaman
 title: Student
 email: tarun.ragothaman@gmail.com
-website: https://github.com/Tarun-msrit
+# website: https://github.com/Tarun-msrit
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  Tarun-msrit
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
