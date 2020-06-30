@@ -36,7 +36,26 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education and Grades
+educaton_title: Education and Grades
+- layout: left
+  name: MS Ramaiah Institute of Technology
+  dates: 2017 - 2021
+  qualification: BE Information Science
+#   quote: >
+#     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    During my time at MSRIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. I have an aggregate <mark>CGPA</mark> of 7.76 throughout the duration of my course  in MSRIT.
+    I spent a lot of my time working on different projects and was a member of the *National Service Scheme*.
+
+- layout: left
+  name: Deeksha Integrated PU college, Yelahanka
+  dates: 2015 - 2017
+  qualification: PUC - 12th
+#   quote: >
+#     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    During my time at MSRIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. I have an aggregate <mark>CGPA</mark> of 7.76 throughout the duration of my course  in MSRIT.
+    I spent a lot of my time working on different projects and was a member of the *National Service Scheme*.
 
 # More Section
 more_title: My Interests and Skills
