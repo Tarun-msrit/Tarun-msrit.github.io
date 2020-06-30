@@ -1,4 +1,4 @@
-- layout: top
+- layout: top-middle
   name: MS Ramaiah Institute of Technology, Bangalore
   dates: 2017 - 2021
   qualification: BE Information Science
@@ -9,7 +9,7 @@
     
     I spent a lot of my time working on different projects and was a member of the *National Service Scheme*.
 
-- layout: top
+- layout: top-middle
   name: Deeksha Integrated PU college, Bangalore
   dates: 2015 - 2017
   qualification: PUC - 12th
@@ -18,7 +18,7 @@
   description: | # this will include new lines to allow paragraphs
     I did my 12th in Deeksha Integrated PU college and had taken PCMB as my course. I had an aggregate <mark>Score</mark> of 78% in my 12th standard. I had also taken French as my elective language.
 
-- layout: top
+- layout: top-middle
   name: Venkat International Public School, Bangalore
   dates: 2015
   qualification: CBSE - 10th
