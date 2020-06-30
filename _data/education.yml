@@ -1,5 +1,5 @@
 - layout: left
-  name: MS Ramaiah Institute of Technology
+  name: MS Ramaiah Institute of Technology, Bangalore
   dates: 2017 - 2021
   qualification: BE Information Science
 #   quote: >
@@ -10,11 +10,19 @@
     I spent a lot of my time working on different projects and was a member of the *National Service Scheme*.
 
 - layout: left
-  name: Deeksha Integrated PU college, Yelahanka
+  name: Deeksha Integrated PU college, Bangalore
   dates: 2015 - 2017
   qualification: PUC - 12th
 #   quote: >
 #     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-    During my time at MSRIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. I have an aggregate <mark>CGPA</mark> of 7.76 throughout the duration of my course  in MSRIT.
-    I spent a lot of my time working on different projects and was a member of the *National Service Scheme*.
+    I did my 12th in Deeksha Integrated PU college and had taken PCMB as my course. I had an aggregate <mark>Score</mark> of 78% in my 12th standard. I had also taken French as my elective language.
+
+- layout: left
+  name: Venkat International Public School, Bangalore
+  dates: 2015
+  qualification: CBSE - 10th
+#   quote: >
+#     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+   I had secured an aggregate <mark>CGPA</mark> of 9.2 in 10th standard.
