@@ -7,9 +7,9 @@
   description: | # this will include new lines to allow paragraphs
     The above link is for all my projects and applications done by me. 
 
-- layout: top
+- layout: top-middle
   name: Abstractive Text Summarization
-  link: github.com/Tarun-msrit/Abstractive-Text-Summarization
+  link: <b>github.com/Tarun-msrit/Abstractive-Text-Summarization</b>
 #   github: sproogen/resume-theme
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
