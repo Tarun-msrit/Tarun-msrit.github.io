@@ -1,4 +1,4 @@
-- layout: left
+- layout: top
   name: My profile/All projects
   link: github.com/Tarun-msrit
   # github: sproogen/resume-theme
@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     The above link is for all my projects and applications done by me. 
 
-- layout: left
+- layout: top
   name: Abstractive Text Summarization
   link: github.com/Tarun-msrit/Abstractive-Text-Summarization
 #   github: sproogen/resume-theme
