@@ -5,7 +5,8 @@
   # quote: >
   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    The above link is for all my projects and applications done by me. 
+    The above link is for all my projects and applications done by me.<br>
+    Click on the icons on top to view my various social profiles(Facebook, Github, Instagram, LinkedIn)
 
 - layout: top-middle
   name: <b>Abstractive Text Summarization</b>
