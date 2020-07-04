@@ -45,8 +45,9 @@
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+    A web application designed for students and teachers for uploading downloading pdfs(notes) through their secure login. Merging of pdf's can be done via <mark>Swing</mark> interface.
+    Account can also be deactivated, password can also be changed for students and teachers. This project is made using JSP,servlets and Swings.  
+    
 - layout: top-middle
   name: <b>Smart Helmet using proximity sensors and End-stop switch</b>
   link: <b>github.com/Tarun-msrit/SmartHelmet</b>
