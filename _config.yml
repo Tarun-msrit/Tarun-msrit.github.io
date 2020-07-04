@@ -25,7 +25,7 @@ linkedin_username: tarun-raghu-848451194
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, my name's Tarun and I'm a student studying in (3rd year, Ramaiah Institute of Technology, Bangalore) in the department of <mark>Information Science</mark>. I am quite intersted in machine Learning and Mobile application development using Flutter. I also have a bit of experience in Django for making web apps. I'm quite proficient in python and java programming languages.<br><br> 
+  Hey, my name's Tarun and I'm a student studying in (3rd year, Ramaiah Institute of Technology, Bangalore) in the department of <mark>Information Science</mark>. I am quite intersted in machine Learning and Mobile application development using Flutter. I also have experience in working with Django Framework for making web applications. I'm quite proficient in python and java programming languages.<br><br> 
   Primary skills are : <mark>Machine Learning</mark> |
                       <mark>Flutter Development</mark>
 
