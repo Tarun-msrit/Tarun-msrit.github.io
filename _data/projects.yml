@@ -17,7 +17,7 @@
     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 - layout: top-middle
-  name: <b>IPR Website</b>
+  name: <b>IPR Website using Django Framework</b>
   link: <b>github.com/Tarun-msrit/IPR_Website</b>
 #   github: sproogen/resume-theme
 #   quote: >
@@ -26,8 +26,8 @@
     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 - layout: top-middle
-  name: <b>Medical assistance using ML and Django Framework</b>
-  link: <b>github.com/Tarun-msrit/Abstractive-Text-Summarization</b>
+  name: <b>Disease Prediction Using ML and Django</b>
+  link: <b>github.com/Tarun-msrit/Disease-Prediction-Using-ML-and-Django</b>
 #   github: sproogen/resume-theme
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -36,7 +36,7 @@
 
 - layout: top-middle
   name: <b>Educational web app using JAVA</b>
-  link: <b>github.com/Tarun-msrit/Abstractive-Text-Summarization</b>
+  link: <b>github.com/Tarun-msrit/EduApp-JAVA</b>
 #   github: sproogen/resume-theme
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -44,8 +44,8 @@
     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 - layout: top-middle
-  name: <b>Smart Helmet</b>
-  link: <b>github.com/Tarun-msrit/Abstractive-Text-Summarization</b>
+  name: <b>Smart Helmet using proximity sensors and End-stop switch</b>
+  link: <b>github.com/Tarun-msrit/SmartHelmet</b>
 #   github: sproogen/resume-theme
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
