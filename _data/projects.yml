@@ -14,8 +14,7 @@
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I did this project as my mini-project in 3rd year. The outline of this project is taking input of News headline articles and summarizing it in 1 or 2 sentences by abstractive text summarization. We have used recurrent neural networks for this and specifically LSTM(Long short term memory) to acheive this.
-    
+    Did this project as my mini-project in 3rd year. The outline of this project is taking input of News headline articles and summarizing it in 1 or 2 sentences by abstractive text summarization. We have used recurrent neural networks for this and specifically LSTM(Long short term memory) to acheive this.<br>
     We've also scored our model based on different parameters.
 
 - layout: top-middle
@@ -25,8 +24,8 @@
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Made on Django framework and JavaScript, Bootstrap for the course Intellectual Property Rights, to enable students to upload
-their photos ,presentations and skit video content conducted as a part of classroom activity sessions. Each team also has a unique auto-generated report which provides a glimpse of the activities conducted by that team.
+    Made on Django framework and JavaScript, Bootstrap for the course Intellectual Property Rights, to enable students to upload their photos ,presentations and skit video content conducted as a part of classroom activity sessions.<br> 
+    Each team also has a unique auto-generated report which provides a glimpse of the activities conducted by that team.
 
 - layout: top-middle
   name: <b>Disease Prediction Using ML and Django</b>
@@ -35,7 +34,8 @@ their photos ,presentations and skit video content conducted as a part of classr
 #   quote: >
 #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Did this project as part of my internship. Its done using Django Framework and we've used various machine learning algorithms for predicting the outcomes. There are 3 components, Heart Disease prediction, COPD, Diabetes.<br>
+    We've taken the patients information by creating various forms and separate login pages for both patients and doctors. Then we have calculated the severity of the respective diseases.
 
 - layout: top-middle
   name: <b>Educational web app using JAVA</b>
